@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-candidate-testing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "swr": "^0.4.2"
+  },
+  "description": "## Instructions",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.6",
+    "tailwindcss": "^2.0.3"
+  }
+}

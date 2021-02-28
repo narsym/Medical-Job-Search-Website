@@ -6,16 +6,18 @@
 
 ## Things I have made:
   
-  1. Search bar which can filter jobs wrt to job title
-  2. modal for department to view all of them
-  3. Job listing expand when clicked on and show more details
+  1. Search bar which can filter jobs wrt job title
+  2. modal for department to view all departments
+  3. Job listing expands when clicked on and shows more details
   4. styling with the help of tailwind css
   5. complete front-end with the help of Next.js
+  6. components for page
   
   
 ## Technologies used:
   
   1.Next.js
+  
   2.tailwindcss
  
 ## Questions
